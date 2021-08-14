@@ -4,4 +4,4 @@
 
 可以通过如下链接获取数据库：
 
-https://cdn.jsdelivr.net/gh/project-nichijou/nichijou-db-essential@latest/data.json
+https://cdn.jsdelivr.net/gh/project-nichijou/nichijou.server.database.essential@latest/data.json
